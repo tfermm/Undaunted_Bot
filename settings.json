@@ -1,0 +1,9 @@
+{
+	"userID": "The userID of your bot",
+	"mysql": {
+		"database": "undaunted",
+		"host": "127.0.0.1",
+		"username": "mysql user name",
+		"password": "mysql password"
+	}
+}

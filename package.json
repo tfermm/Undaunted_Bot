@@ -1,0 +1,13 @@
+{
+  "name": "UndauntedBot",
+  "version": "0.2.1",
+  "description": "The Undaunted Discord Bot",
+  "main": "bot.js",
+  "author": "Fermis",
+  "dependencies": {
+    "discord.io": "^2.5.2",
+    "mysql": "github:mysqljs/mysql",
+    "node-schedule": "^1.2.4",
+    "winston": "^2.3.1"
+  }
+}
